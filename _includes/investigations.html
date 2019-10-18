@@ -7,7 +7,7 @@
         <h3 class="section-subheading text-muted editable">Lorem ipsum dolor sit amet consectetur.</h3>
       </div>
     </div>
-    <div class="row">
+    <div class="row" style="overflow:hidden;">
       {% for item in page.investigations %}
       {% assign linable = forloop.index | minus: 1 | modulo: 2 %}
       <div class="col-md-5">

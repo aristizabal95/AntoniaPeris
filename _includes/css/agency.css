@@ -1130,6 +1130,9 @@ div.centered {
   border-left: 1px solid hsla(200, 10%, 50%,100);
   height: 100vh;
   width: 1px;
+  position:absolute;
+  left: 50%;
+  transform:translate(-50%);
 }
 
 #invs a {
