@@ -1,5 +1,5 @@
 <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top visible-xs">
         <div class="container xl">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll editable" href="#page-top">{{site.title}}<p>{{site.slogan}}</p></a>
+                <a class="navbar-brand page-scroll editable" href="#page-top">{{site.data.template.title}}<p>{{site.data.template.subtitle}}</p></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -44,9 +44,10 @@
     </nav>
 
     <!-- Header -->
-    <header class="parallax-window" data-parallax="scroll" data-image-src="img/header-bg.jpg" data-speed="0.3">
-        <div class="container centered">
-          <h1>{{site.title}}</h1>
+    <header class="parallax-window" data-parallax="scroll" data-image-src="img/header-bg.jpg" data-speed="0.75">
+        <div class="container centered main-title hidden-xs">
+          <h1>{{site.data.template.title}}</h1>
+          <h4>{{site.data.template.subtitle}}</h4>
         </div>
     </header>
 <!--

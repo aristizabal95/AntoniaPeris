@@ -1,13 +1,40 @@
+# Global Variables
+title: Antonia Peris
+subtitle: Performer-Invertigadora
+phone: '123 456 789'
+email: your-email@domain.com
+cv_path: ''
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, twitter, etc.)
+social:
+  - title: facebook
+    url: http://www.facebook.com/laura.monroy.95
+  - title: instagram
+    url: http://www.instagram.com/aua.ooy/
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: "000000"
-  secondary: f5efec
-  secondary-dark: "333"
-  muted: "777"
-  highlight: "808080"
-  highlight-bg: "f5f5f5"
+  primary: "#000000"
+  secondary: "#444"
+  muted: "#777"
+  muted-bg: "#f5efec"
+  highlight: "#808080"
+  highlight-bg: "#f5f5f5"
+  purple: '#471f32'
+  yellow: '#ffc115'
+  pink: '#fad9f4'
+  skin: '#ecc8ae'
+  skin-light: '#ecbfae'
+  blue: '#72c7ef'
 
 # Font Families
 font:
-  primary: '"Times New Roman", serif'
-  secondary: '"Karla", sans-serif'
+  primary: 'Dosis, Arial, sans-serif'
+  secondary: '"Open Sans", Arial, sans-serif'
+
+gallery:
+  xs-columns: 2
+  sm-columns: 2
+  md-columns: 4
+  lg-columns: 4

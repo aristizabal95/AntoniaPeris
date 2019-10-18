@@ -54,7 +54,7 @@ h5,
 h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 700;
+    font-weight: 300;
 }
 
 .img-centered {
@@ -67,6 +67,10 @@ h6 {
 
 .bg-darkest-gray {
     background-color: #222;
+}
+
+.bg-darkest-gray h2 {
+  color: white;
 }
 
 .btn-primary {
@@ -172,7 +176,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: white;
+    background-image: linear-gradient(#333, #1a1a1a);
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
 }
 
 .navbar-default .navbar-brand {
@@ -204,7 +209,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle {
     border-color: #fff;
-    background-color: #fff;
+    background-color: #222;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -215,6 +220,82 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-toggle:focus {
     background-color: #{{ site.data.template.color.highlight-bg }};
 }
+
+@media(max-width:767px) {
+  .navbar-default .navbar-brand>hr {
+    margin-top: 1px;
+  }
+
+  .navbar-default .navbar-brand>p {
+    line-height: 1;
+    font-size: 12px;
+    margin-top: 0px;
+  }
+}
+
+@media(max-width:1100px) {
+  .navbar-large a {
+    font-size: 1.3vw;
+  }
+}
+
+section::before {
+  content: "";
+}
+
+.navbar-large a {
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.secondary }};
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: {{ site.data.template.color.primary }};
+    -webkit-transition: all ease .35s;
+    -moz-transition: all ease .35s;
+    transition: all ease .35s;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.navbar-large a:hover,
+.navbar-large a:focus {
+    outline: 0;
+    text-decoration: none;
+    color: {{ site.data.template.color.highlight }};
+    background-color: {{site.data.template.color.highlight-bg}};
+}
+
+.navbar-large .img-container {
+  height: 80vh;
+  overflow: hidden;
+}
+
+.navbar-large .img-container img {
+  height:100%;
+  width:100%;
+  object-fit: cover;
+  -webkit-transition: all ease .35s;
+  -moz-transition: all ease .35s;
+  transition: all ease .35s;
+}
+
+.navbar-large .img-container img:hover {
+  transform: scale(1.1)
+}
+
+.navbar-default .navbar-nav>.active>a {
+    border-radius: 0;
+    color: #{{ site.data.template.color.highlight }};
+    background-color: #{{ site.data.template.color.highlight-bg }};
+}
+
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #fff;
+    background-color: #{{ site.data.template.color.highlight-bg }};
+}
+
+
+
 
 .navbar-default .nav li a {
     text-transform: uppercase;
@@ -1008,4 +1089,106 @@ div.centered {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.main-title h1{
+  font-size: 30px;
+  letter-spacing: 20px;
+  text-shadow: 0 0 15px black;
+  margin: 50px 0;
+}
+
+.main-title h4 {
+  font-weight: 300;
+  opacity: 0.8;
+  font-size: 20px;
+  letter-spacing: 10px;
+  text-shadow: 0 0 15px black;
+  font-family: {{ site.data.template.font.secondary }};
+  color: {{site.data.template.color.highlight-bg}};
+}
+
+#invs .img-container {
+  overflow: hidden;
+  height: 300px;
+}
+
+#invs .img-container img {
+  width: 100%
+  height: 100%;
+  object-fit: cover;
+}
+
+#invs hr {
+  border: none;
+  border-left: 1px solid hsla(200, 10%, 50%,100);
+  height: 100vh;
+  width: 1px;
+}
+
+#invs a {
+  text-decoration: none;
+  color: {{site.data.template.color.primary}};
+  -webkit-transition: all ease .35s;
+  -moz-transition: all ease .35s;
+  transition: all ease .35s;
+}
+
+#invs .img-container {
+  overflow: hidden;
+  height: 0;
+  padding-top: 56.25%;
+  position: relative;
+}
+
+#invs .img-container img {
+  height:100%;
+  width:100%;
+  position:absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  object-fit: cover;
+  -webkit-transition: all ease .35s;
+  -moz-transition: all ease .35s;
+  transition: all ease .35s;
+}
+a.button-link {
+  display: inline-block;
+  padding: 20px 50px;
+  border: 1px solid black;
+  margin: 30px 0;
+  transition: all .5s ease;
+}
+
+a.button-link.centered {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+a.button-link:hover {
+  background-color: black;
+  color: white !important;
+  text-decoration: none;
+}
+
+.img-container.square {
+  height: 0;
+  padding-top: 100%;
+  overflow: hidden;
+  position: relative;
+  margin: 50px 0;
+}
+
+.img-container.square img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
 }
