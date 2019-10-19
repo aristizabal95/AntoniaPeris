@@ -270,12 +270,12 @@ section::before {
     background-color: {{site.data.template.color.highlight-bg}};
 }
 
-.navbar-large .img-container {
+.img-grid .img-container {
   height: 80vh;
   overflow: hidden;
 }
 
-.navbar-large .img-container img {
+.img-grid .img-container img {
   height:100%;
   width:100%;
   object-fit: cover;
@@ -284,7 +284,7 @@ section::before {
   transition: all ease .35s;
 }
 
-.navbar-large .img-container img:hover {
+.img-grid .img-container img:hover {
   transform: scale(1.1)
 }
 

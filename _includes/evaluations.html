@@ -1,37 +1,46 @@
 <!-- Team Section -->
-    <section id="evals" class="bg-darkest-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading editable">Sobre Mi Proceso</h2>
-                    <h3 class="section-subheading text-muted editable">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-            </div>
-            <div class="row">
-                {% for member in site.people %}
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">{{ member.position }}</p>
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
+<section id="evals" class="bg-darkest-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading editable">Sobre Mi Proceso</h2>
+        <h3 class="section-subheading text-muted editable">Lorem ipsum dolor sit amet consectetur.</h3>
+      </div>
+    </div>
+    {% assign a = 6 %}
+    {% assign a_max = 12.0 %}
+    {% assign rows = a | divided_by: a_max | ceil %}
+    {% assign r_float = rows | times: 1.0 %}
+    {% assign items_row = a | divided_by: r_float | ceil %}
+    {% assign i_size = a_max | divided_by: items_row | floor %}
+    {% assign total_size = i_size | times: items_row %}
+    {% assign padding = a_max | minus: total_size | divided_by: 2 | floor %}
 
-                        </ul>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                </div>
-            </div>
+    {% for i in (1..rows) %}
+    {% assign row = i | minus: 1 %}
+    <div class="row img-grid">
+      <div class="col-md-{{padding}}">
+        <!-- PADDING COLUMN -->
+      </div>
+      {% for j in (1..items_row) %}
+      {% assign idx = j | minus: 1 %}
+      {% assign offset = row | times: items_row %}
+      {% assign item_idx = idx | plus: offset %}
+      <div class="col-md-{{i_size}}">
+        <div class="img-container">
+          <img src="https://picsum.photos/200/300">
         </div>
-    </section>
+      </div>
+      {% endfor %}
+      <div class="col-md-{{padding}}">
+        <!-- PADDING COLUMN -->
+      </div>
+    </div>
+    {% endfor %}
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 text-center">
+        <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+      </div>
+    </div>
+  </div>
+</section>
