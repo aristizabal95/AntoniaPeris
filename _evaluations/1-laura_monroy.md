@@ -2,7 +2,9 @@
 layout: evaluation
 name: Laura María Monroy García
 title: Evaluación de pares
-quote:
+quote: >-
+  “Antonia es una persona que genera una confianza enorme desde su disciplina,
+  su escucha y su generosidad.”
 header:
 image: /img/laura-monroy.png
 image_x_offset: '-110px'
