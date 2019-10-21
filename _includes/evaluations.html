@@ -3,8 +3,12 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading editable underlined">Sobre Mi Proceso</h2>
-        <h3 class="section-subheading text-muted editable">Lorem ipsum dolor sit amet consectetur.</h3>
+        <h2 class="section-heading editable underlined">
+          Sobre Mi Proceso
+        </h2>
+        <h3 class="section-subheading text-muted editable">
+          YO, EL OTRO Y LA SITUACION&hellip; Eval&uacute;o mi proceso para reconocer los cambios, dificultades y hallazgos. Dos maestros y dos estudiantes que me han acompa&ntilde;ado en diferentes clases, eval&uacute;an aquello que perciben de mi proceso. Cuatro evaluaciones que evidencian lo que fui en la carrera de artes escenicas de la pontificia universidad javeriana.
+        </h3>
       </div>
     </div>
     {% assign a = site.evaluations.size %}
@@ -39,7 +43,7 @@
               </a>
             </div>
           </div>
-          <img src="{{evaluation.image | prepend: site.baseurl }}" style="object-position: {{evaluation.image_x_offset}}">
+          <img src="{{evaluation.image | prepend: site.baseurl }}" style="object-position: {{evaluation.image_x_offset}}" />
         </div>
       </div>
       {% endfor %}
