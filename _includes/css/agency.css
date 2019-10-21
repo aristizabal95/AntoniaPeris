@@ -1272,8 +1272,12 @@ a.button-link:hover {
   transform: translate(-50%, -50%);
 }
 
-.portfolio-modal .modal-body>p>img {
+.portfolio-modal .modal-body>img {
   height: 300px;
   float: left;
   margin: 35px;
+}
+
+.portfolio-modal .modal-body>p {
+  text-align: justify;
 }

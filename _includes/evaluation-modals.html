@@ -16,7 +16,8 @@
             <h2>{{ evaluation.title }}</h2>
             <h4 class="title">{{ evaluation.name }}</h4>
             <hr class="star-primary">
-            <p><img src="{{ evaluation.image }}" class="img-responsive img-centered" alt="{{ post.alt }}">{{ evaluation.content }}</p>
+            <img src="{{ evaluation.image }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            {{ evaluation.content }}
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
           </div>
         </div>
