@@ -1273,9 +1273,32 @@ a.button-link:hover {
 }
 
 .portfolio-modal .modal-body>img {
-  height: 300px;
+  max-height: 500px;
   float: left;
   margin: 35px;
+}
+
+@media (max-width: 767px) {
+  .portfolio-modal .modal-body>img {
+    margin: 0;
+    margin-bottom: 20px;
+  }
+
+  .hover-expandable {
+    padding: 15px;
+  }
+
+  .hover-expandable .img-container {
+    height: 120vw;
+  }
+
+  .hover-expandable .img-container .img-overlay {
+    margin: 15px;
+  }
+
+  .hover-expandable .img-container>img {
+    object-position: unset !important;
+  }
 }
 
 .portfolio-modal .modal-body>p {

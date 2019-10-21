@@ -61,14 +61,14 @@ $('.hover-expandable').hover(
   function() {
     var $prev = $(this).prev()
     var $next = $(this).next()
-    var regexp = /col-md-(\d+)/
+    var regexp = /col-sm-(\d+)/
     var expand_size = 0
     if ($prev.length) {
       var classes = $prev.attr("class");
       var match = regexp.exec(classes);
       var size = parseInt(match[1]);
       if (size > 1) {
-        $prev.addClass("col-md-".concat(size-1));
+        $prev.addClass("col-sm-".concat(size-1));
         $prev.removeClass(match[0]);
         expand_size += 1;
       }
@@ -81,7 +81,7 @@ $('.hover-expandable').hover(
       var match = regexp.exec(classes);
       var size = parseInt(match[1]);
       if (size > 1) {
-        $next.addClass("col-md-".concat(size-1));
+        $next.addClass("col-sm-".concat(size-1));
         $next.removeClass(match[0]);
         expand_size += 1;
       }
@@ -92,20 +92,20 @@ $('.hover-expandable').hover(
     var classes = $(this).attr("class");
     var match = regexp.exec(classes);
     var size = parseInt(match[1]);
-    $(this).addClass("col-md-".concat(size+expand_size));
+    $(this).addClass("col-sm-".concat(size+expand_size));
     $(this).removeClass(match[0]);
   },
   function() {
     var $prev = $(this).prev()
     var $next = $(this).next()
-    var regexp = /col-md-(\d+)/
+    var regexp = /col-sm-(\d+)/
     var expand_size = 0
     if ($prev.length) {
       var classes = $prev.attr("class");
       var match = regexp.exec(classes);
       var size = parseInt(match[1]);
       if (!$prev.is(".unshrinkable")) {
-        $prev.addClass("col-md-".concat(size+1));
+        $prev.addClass("col-sm-".concat(size+1));
         $prev.removeClass(match[0]);
         expand_size -= 1;
       }
@@ -118,7 +118,7 @@ $('.hover-expandable').hover(
       var match = regexp.exec(classes);
       var size = parseInt(match[1]);
       if (!$next.is(".unshrinkable")) {
-        $next.addClass("col-md-".concat(size+1));
+        $next.addClass("col-sm-".concat(size+1));
         $next.removeClass(match[0]);
         expand_size -= 1;
       }
@@ -129,7 +129,7 @@ $('.hover-expandable').hover(
     var classes = $(this).attr("class");
     var match = regexp.exec(classes);
     var size = parseInt(match[1]);
-    $(this).addClass("col-md-".concat(size+expand_size));
+    $(this).addClass("col-sm-".concat(size+expand_size));
     $(this).removeClass(match[0]);
   }
 )

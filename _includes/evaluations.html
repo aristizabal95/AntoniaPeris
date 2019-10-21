@@ -19,7 +19,7 @@
     {% for i in (1..rows) %}
     {% assign row = i | minus: 1 %}
     <div class="row img-grid">
-      <div class="col-md-{{padding}}" style="transition: width .35s ease;">
+      <div class="col-sm-{{padding}}" style="transition: width .35s ease;">
         <!-- PADDING COLUMN -->
       </div>
       {% for j in (1..items_row) %}
@@ -27,7 +27,7 @@
       {% assign offset = row | times: items_row %}
       {% assign item_idx = idx | plus: offset %}
       {% assign evaluation = site.evaluations[item_idx] %}
-      <div class="col-md-{{i_size}} hover-expandable">
+      <div class="col-sm-{{i_size}} hover-expandable">
         <div class="img-container">
           <div class="img-overlay">
             <div class="overlay-container">
@@ -43,7 +43,7 @@
         </div>
       </div>
       {% endfor %}
-      <div class="col-md-{{padding}}" style="transition: width .35s ease;">
+      <div class="col-sm-{{padding}}" style="transition: width .35s ease;">
         <!-- PADDING COLUMN -->
       </div>
     </div>
