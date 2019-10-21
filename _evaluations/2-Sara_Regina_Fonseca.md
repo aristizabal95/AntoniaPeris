@@ -3,9 +3,8 @@ layout: evaluation
 name: Sara Regina Fonseca
 title: Evaluación de la profesora
 quote: >-
-  He visto a Antonia en escena varias veces, y tengo claros recuerdos de la
-  fuerza de su presencia, la calidad de su ejecución, y el ingenio de su trabajo
-  creativo.
+  “Tiene una facilidad particular para conectar su cuerpo y trabajar en el
+  detalle”
 header:
 image: /img/sara-regina.jpg
 image_x_offset: 70%
