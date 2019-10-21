@@ -34,7 +34,7 @@
               <h3 class="title">{{ evaluation.title }}</h3>
               <h4 class="title">{{ evaluation.name }}</h4>
               <p>{{ evaluation.quote }}</p>
-              <a href="#" target="_blank" class="button-link centered">
+              <a href="#evaluationModal{{item_idx}}" target="_blank" class="button-link centered" data-toggle="modal">
                 Leer
               </a>
             </div>
@@ -55,3 +55,4 @@
     </div>
   </div>
 </section>
+{% include evaluation-modals.html %}
