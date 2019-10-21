@@ -1,7 +1,7 @@
 ---
 title: La Mediación como Evento Escénico
 subtitle:
-image: /img/gallery/DSC_0576.jpg
+image: 'https://picsum.photos/1750/2600'
 description: >-
   A partir de el concepto de héroe en el circo que manejamos durante la case de
   puesta en escena de circo en el 2018 y junto a las inquietudes que habían
