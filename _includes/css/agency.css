@@ -11,11 +11,12 @@ body {
 }
 
 .text-muted {
-    color: #{{ site.data.template.color.muted }};
+    color: {{ site.data.template.color.muted }};
+    fill: {{ site.data.template.color.muted }};
 }
 
 .text-primary {
-    color: #{{ site.data.template.color.primary }};
+    color: {{ site.data.template.color.primary }};
 }
 
 p {
@@ -273,6 +274,7 @@ section::before {
 .img-grid .img-container {
   height: 80vh;
   overflow: hidden;
+  border-radius: 8px;
 }
 
 .img-grid .img-container img {
@@ -1189,6 +1191,7 @@ a.button-link:hover {
   overflow: hidden;
   position: relative;
   margin: 50px 0;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
 }
 
 .img-container.square img {
@@ -1233,6 +1236,7 @@ a.button-link:hover {
   background-color: rgba(255,255,255,0.8);
   transition: opacity .5s ease;
   overflow: hidden;
+  border-radius: 8px;
 }
 
 .hover-expandable:hover .img-container .img-overlay {
