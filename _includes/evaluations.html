@@ -7,7 +7,7 @@
         <h3 class="section-subheading text-muted editable">Lorem ipsum dolor sit amet consectetur.</h3>
       </div>
     </div>
-    {% assign a = 6 %}
+    {% assign a = site.evaluations.size %}
     {% assign a_max = 12.0 %}
     {% assign rows = a | divided_by: a_max | ceil %}
     {% assign r_float = rows | times: 1.0 %}
@@ -19,20 +19,31 @@
     {% for i in (1..rows) %}
     {% assign row = i | minus: 1 %}
     <div class="row img-grid">
-      <div class="col-md-{{padding}}">
+      <div class="col-md-{{padding}}" style="transition: width .35s ease;">
         <!-- PADDING COLUMN -->
       </div>
       {% for j in (1..items_row) %}
       {% assign idx = j | minus: 1 %}
       {% assign offset = row | times: items_row %}
       {% assign item_idx = idx | plus: offset %}
-      <div class="col-md-{{i_size}}">
+      {% assign evaluation = site.evaluations[item_idx] %}
+      <div class="col-md-{{i_size}} hover-expandable">
         <div class="img-container">
-          <img src="https://picsum.photos/200/300">
+          <div class="img-overlay">
+            <div class="overlay-container">
+              <h3 class="title">Titulo de prueba</h3>
+              <h4 class="title">Titulo de prueba</h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel mauris eu turpis tincidunt molestie. Praesent sed varius mauris. Duis dapibus fringilla nisi in vehicula. Vivamus vitae pretium magna. Duis eget dui massa.</p>
+              <a href="#" target="_blank" class="button-link centered">
+                Leer
+              </a>
+            </div>
+          </div>
+          <img src="{{evaluation.image}}" style="object-position: {{evaluation.image_x_offset}}">
         </div>
       </div>
       {% endfor %}
-      <div class="col-md-{{padding}}">
+      <div class="col-md-{{padding}}" style="transition: width .35s ease;">
         <!-- PADDING COLUMN -->
       </div>
     </div>

@@ -284,7 +284,7 @@ section::before {
   transition: all ease .35s;
 }
 
-.img-grid .img-container img:hover {
+.img-grid .img-container.zoomin img:hover {
   transform: scale(1.1)
 }
 
@@ -1200,4 +1200,74 @@ a.button-link:hover {
   bottom: 0;
   right: 0;
   position: absolute;
+}
+
+.hover-expandable {
+  transition: width .50s ease;
+}
+
+.hover-expandable .img-container {
+  max-height: 630px;
+}
+
+.hover-expandable .img-container>img {
+  transition: object-position .50s ease;
+}
+
+.hover-expandable:hover .img-container>img {
+  object-position: unset !important;
+}
+
+.col-md-0 {
+  width: 0;
+}
+
+.img-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: 0 15px;
+  opacity: 0;
+  background-color: rgba(255,255,255,0.8);
+  transition: opacity .5s ease;
+  overflow: hidden;
+}
+
+.hover-expandable:hover .img-container .img-overlay {
+  opacity: 1;
+}
+
+.img-overlay .overlay-container {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  transition: all .5s ease;
+  text-align: center;
+  width: 100%;
+  padding: 15px;
+}
+
+.img-overlay .overlay-container h4 {
+  color: rgba(0,0,0,0.5);
+}
+
+.img-overlay .overlay-container p {
+  text-align: justify;
+}
+
+.img-overlay .overlay-container a.button-link.centered {
+  transform: translate(0,0);
+  left: unset;
+  margin: 0 auto;
+  background-color: black;
+  color: white;
+}
+
+.hover-expandable:hover .img-overlay .overlay-container {
+  transition-delay: .25s;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }

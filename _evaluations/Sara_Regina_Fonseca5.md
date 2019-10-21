@@ -1,8 +1,9 @@
 ---
 layout: evaluation
-name: Antonia Valentina Peris Murcia
+name: Sara Regina Fonseca
 title: Evaluación de pares para Laura María Monroy-García
 description:
 header:
-image: /img/evaluations/ana_oviedo.jpg
+image: https://picsum.photos/1750/2600
+image_x_offset: 50%
 ---

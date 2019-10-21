@@ -1,39 +1,39 @@
 /*!
- * Start Bootstrap - Agnecy Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
+* Start Bootstrap - Agnecy Bootstrap Theme (http://startbootstrap.com)
+* Code licensed under the Apache License v2.0.
+* For details, see http://www.apache.org/licenses/LICENSE-2.0.
+*/
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
-    $('a.page-scroll').bind('click', function(event) {
-        var $anchor = $(this);
-        $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top
-        }, 1500, 'easeInOutExpo');
-        event.preventDefault();
-    });
+  $('a.page-scroll').bind('click', function(event) {
+    var $anchor = $(this);
+    $('html, body').stop().animate({
+      scrollTop: $($anchor.attr('href')).offset().top
+    }, 1500, 'easeInOutExpo');
+    event.preventDefault();
+  });
 });
 
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({
-    target: '.navbar-fixed-top'
+  target: '.navbar-fixed-top'
 })
 
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
-    $('.navbar-toggle:visible').click();
+  $('.navbar-toggle:visible').click();
 });
 
 $('div.modal').on('show.bs.modal', function() {
-	var modal = this;
-	var hash = modal.id;
-	window.location.hash = hash;
-	window.onhashchange = function() {
-		if (!location.hash){
-			$(modal).modal('hide');
-		}
-	}
+  var modal = this;
+  var hash = modal.id;
+  window.location.hash = hash;
+  window.onhashchange = function() {
+    if (!location.hash){
+      $(modal).modal('hide');
+    }
+  }
 });
 
 $('.carousel.thumbnail-indicator').on('slide.bs.carousel', function() {
@@ -56,3 +56,80 @@ $('.carousel.thumbnail-indicator').on('slide.bs.carousel', function() {
     //thumbnails.parent().scrollLeft(scrollPos);
   }, 10);
 });
+
+$('.hover-expandable').hover(
+  function() {
+    var $prev = $(this).prev()
+    var $next = $(this).next()
+    var regexp = /col-md-(\d+)/
+    var expand_size = 0
+    if ($prev.length) {
+      var classes = $prev.attr("class");
+      var match = regexp.exec(classes);
+      var size = parseInt(match[1]);
+      if (size > 1) {
+        $prev.addClass("col-md-".concat(size-1));
+        $prev.removeClass(match[0]);
+        expand_size += 1;
+      }
+      else {
+        $prev.addClass("unshrinkable");
+      }
+    }
+    if ($next.length) {
+      var classes = $next.attr("class");
+      var match = regexp.exec(classes);
+      var size = parseInt(match[1]);
+      if (size > 1) {
+        $next.addClass("col-md-".concat(size-1));
+        $next.removeClass(match[0]);
+        expand_size += 1;
+      }
+      else {
+        $next.addClass("unshrinkable");
+      }
+    }
+    var classes = $(this).attr("class");
+    var match = regexp.exec(classes);
+    var size = parseInt(match[1]);
+    $(this).addClass("col-md-".concat(size+expand_size));
+    $(this).removeClass(match[0]);
+  },
+  function() {
+    var $prev = $(this).prev()
+    var $next = $(this).next()
+    var regexp = /col-md-(\d+)/
+    var expand_size = 0
+    if ($prev.length) {
+      var classes = $prev.attr("class");
+      var match = regexp.exec(classes);
+      var size = parseInt(match[1]);
+      if (!$prev.is(".unshrinkable")) {
+        $prev.addClass("col-md-".concat(size+1));
+        $prev.removeClass(match[0]);
+        expand_size -= 1;
+      }
+      else {
+        $prev.removeClass("unshrinkable");
+      }
+    }
+    if ($next.length) {
+      var classes = $next.attr("class");
+      var match = regexp.exec(classes);
+      var size = parseInt(match[1]);
+      if (!$next.is(".unshrinkable")) {
+        $next.addClass("col-md-".concat(size+1));
+        $next.removeClass(match[0]);
+        expand_size -= 1;
+      }
+      else {
+        $next.removeClass("unshrinkable");
+      }
+    }
+    var classes = $(this).attr("class");
+    var match = regexp.exec(classes);
+    var size = parseInt(match[1]);
+    $(this).addClass("col-md-".concat(size+expand_size));
+    $(this).removeClass(match[0]);
+  }
+)
