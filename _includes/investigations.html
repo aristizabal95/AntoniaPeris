@@ -12,17 +12,18 @@
       </div>
     </div>
     <div class="row" style="overflow:hidden;">
-      {% for item in page.investigations %}
-      {% assign linable = forloop.index | minus: 1 | modulo: 2 %}
+      {% for item in site.investigations %}
+      {% assign idx = forloop.index | minus: 1 %}
+      {% assign linable = idx | modulo: 2 %}
       <div class="col-md-5">
         <div class="text-center">
           <h2 class="inv-title">{{item.title}}</h2>
           <div class="img-container">
-            <img src="https://picsum.photos/1750/3000" />
+            <img src="{{investigation.image}}" />
           </div>
           <p class="text-muted">{{item.description}}</p>
         </div>
-        <a href="#" target="_blank" class="button-link centered">
+        <a href="#investigationModal{{ idx }}" class="button-link centered" data-toggle="modal">
           Leer
         </a>
       </div>
@@ -35,3 +36,4 @@
     </div>
   </div>
 </section>
+{% include investigation-modals.html %}
