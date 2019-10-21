@@ -21,6 +21,7 @@ color:
   muted-bg: "#f5efec"
   highlight: "#808080"
   highlight-bg: "#f5f5f5"
+  green: '#829891'
   purple: '#471f32'
   yellow: '#ffc115'
   pink: '#fad9f4'

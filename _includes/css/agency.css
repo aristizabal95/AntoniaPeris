@@ -1127,7 +1127,7 @@ div.centered {
 
 #invs hr {
   border: none;
-  border-left: 1px solid hsla(200, 10%, 50%,100);
+  border-left: 1px solid {{site.data.template.color.green}};
   height: 100vh;
   width: 1px;
   position:absolute;
@@ -1280,4 +1280,8 @@ a.button-link:hover {
 
 .portfolio-modal .modal-body>p {
   text-align: justify;
+}
+
+.underlined {
+  border-bottom: 2px solid {{site.data.template.color.green }};
 }
