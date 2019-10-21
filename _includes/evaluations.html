@@ -31,15 +31,15 @@
         <div class="img-container">
           <div class="img-overlay">
             <div class="overlay-container">
-              <h3 class="title">Titulo de prueba</h3>
-              <h4 class="title">Titulo de prueba</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel mauris eu turpis tincidunt molestie. Praesent sed varius mauris. Duis dapibus fringilla nisi in vehicula. Vivamus vitae pretium magna. Duis eget dui massa.</p>
+              <h3 class="title">{{ evaluation.title }}</h3>
+              <h4 class="title">{{ evaluation.name }}</h4>
+              <p>{{ evaluation.quote }}</p>
               <a href="#" target="_blank" class="button-link centered">
                 Leer
               </a>
             </div>
           </div>
-          <img src="{{evaluation.image}}" style="object-position: {{evaluation.image_x_offset}}">
+          <img src="{{evaluation.image | prepend: site.baseurl }}" style="object-position: {{evaluation.image_x_offset}}">
         </div>
       </div>
       {% endfor %}
