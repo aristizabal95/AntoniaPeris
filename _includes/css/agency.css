@@ -18,6 +18,10 @@ body {
   position: unset !important;
 }
 
+#parallax-video>div {
+  background-image: url("{{'/img/antonia-preview-min.jpg' | prepend: site.baseurl }}") !important;
+}
+
 #parallax-video video {
   width: unset;
 }
