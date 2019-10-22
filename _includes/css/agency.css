@@ -1298,6 +1298,10 @@ a.button-link:hover {
   margin: 35px;
 }
 
+.portfolio-modal .modal-body li {
+  text-align: left;
+}
+
 @media (max-width: 767px) {
   .portfolio-modal .modal-body>img {
     margin: 0;
