@@ -10,6 +10,10 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.site-content-wrapper {
+  background: white;
+}
+
 .text-muted {
     color: {{ site.data.template.color.muted }};
     fill: {{ site.data.template.color.muted }};
