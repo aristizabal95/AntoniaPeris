@@ -3,11 +3,12 @@ title: Puesta en Escena de Cuerpo de Medios Nuevos
 subtitle:
 image: 'https://picsum.photos/1750/2600'
 description: >-
-  A partir de el concepto de héroe en el circo que manejamos durante la case de
-  puesta en escena de circo en el 2018 y junto a las inquietudes que habían
-  surgido en mi practica acrobática, como las lesiones, cambios físicos, miedo a
-  la caída. cree esta investigación para visibilizar humano que se encuentra
-  detrás del gran héroe que recibe los plauzs.
+  A lo largo de mi proceso genere un gusto por los elementos viejos y las
+  emociones humanas en las obras teatrales, cerrándome ante la posibilidad de
+  otras formas de creación. En esta investigación indago sobre las posibilidades
+  de expansión que ofrecen los nuevos medios, para oponer estas dos miradas, ¿A
+  caso los medios tecnológicos amplían la experiencia teatral o nos alejan de
+  ella?
 ---
 
 De lo teatral a lo virtual
