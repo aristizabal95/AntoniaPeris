@@ -6,7 +6,7 @@ quote: >-
   “Usa elementos técnicos con exactitud poniéndolos al servicio de la
   expresividad”
 header:
-image: 'https://picsum.photos/1750/2400'
+image: /uploads/leo-1---antonia.jpg
 image_x_offset: 50%
 ---
 
