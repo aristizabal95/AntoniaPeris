@@ -14,6 +14,14 @@ body {
   background: white;
 }
 
+#parallax-video {
+  position: unset !important;
+}
+
+#parallax-video video {
+  width: unset;
+}
+
 .text-muted {
     color: {{ site.data.template.color.muted }};
     fill: {{ site.data.template.color.muted }};
