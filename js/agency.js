@@ -137,6 +137,7 @@ $('.hover-expandable').hover(
 $(document).ready(function() {
   $('.parallax-window').parallax({
     naturalWidth: 600,
-    naturalHeight: 400
+    naturalHeight: 400,
+    speed: 0.4
   })
 })
