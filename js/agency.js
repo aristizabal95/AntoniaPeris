@@ -133,3 +133,10 @@ $('.hover-expandable').hover(
     $(this).removeClass(match[0]);
   }
 )
+
+$(document).ready(function() {
+  $('.parallax-window').parallax({
+    naturalWidth: 600,
+    naturalHeight: 400
+  })
+})
