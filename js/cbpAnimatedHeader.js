@@ -28,7 +28,6 @@ var cbpAnimatedHeader = (function() {
 	function scrollPage() {
 		var sy = scrollY();
 		var changeHeaderOn = $chAfterEl.position().top + $chAfterEl.outerHeight(true);
-		console.log(changeHeaderOn);
 		if ( sy >= changeHeaderOn ) {
 			classie.remove(header, 'showdown-xs');
 		}

@@ -140,4 +140,9 @@ $(document).ready(function() {
     naturalHeight: 400,
     speed: 0.4
   })
+
+  setTimeout(function() {
+    $('video')[0].play();
+  }, 2000);
+
 })
