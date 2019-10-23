@@ -1,0 +1,30 @@
+{% assign identifier = include.identifier %}
+{% assign items = include.items %}
+
+ <!-- Column-grid Modals -->
+ {% for item in items %}
+    <div class="column-grid-modal modal fade" id="{{ identifier }}Modal{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container xl">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>{{ item.title }}</h2>
+                            <hr class="star-primary">
+                            <article class="column-grid-content">
+                              {{ item.content}}
+                            </article>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}

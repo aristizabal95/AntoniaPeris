@@ -1,3 +1,5 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
+{% include css/column-grid.css %}
+{% include css/column-grid-modals.css %}
 {{ content }}
