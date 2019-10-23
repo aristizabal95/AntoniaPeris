@@ -2,28 +2,26 @@
 title: Maravillosas Ocupaciones
 subtitle: 'Dirección: Juliana Atuesta'
 description: Ensamble de danza.
-image: /img/header-bg.jpg
+image: /uploads/tlb-6631.JPG
 bg_color: '#efefef'
 gallery:
-  - path: /img/projects/maravillosas-ocupaciones/1.jpg
+  - path: /uploads/tlb-6584.JPG
     desc:
-  - path: /img/projects/maravillosas-ocupaciones/2.jpg
+  - path: /uploads/tlb-6601.JPG
     desc:
-  - path: /img/projects/maravillosas-ocupaciones/3.jpg
+  - path: /uploads/tlb-6602.JPG
     desc:
-  - path: /img/projects/maravillosas-ocupaciones/5.jpg
+  - path: /uploads/tlb-6613.JPG
     desc:
-  - path: /img/projects/maravillosas-ocupaciones/6.jpg
+  - path: /uploads/tlb-6618.JPG
     desc:
-  - path: /img/projects/maravillosas-ocupaciones/7.jpg
+  - path: /uploads/tlb-6624.JPG
     desc:
-  - path: /img/projects/maravillosas-ocupaciones/8.jpg
+  - path: /uploads/tlb-6631.JPG
     desc:
-  - path: /img/projects/maravillosas-ocupaciones/9.jpg
+  - path: /uploads/tlb-6635.JPG
     desc:
-  - path: /img/projects/maravillosas-ocupaciones/10.jpg
-    desc:
-  - path: /img/projects/maravillosas-ocupaciones/11.JPG
+  - path: /uploads/tlb-6641.JPG
     desc:
 ---
 
