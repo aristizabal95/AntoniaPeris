@@ -16,7 +16,18 @@
   position: relative;
 }
 
-.column-grid-item .column-grid-link div, .column-grid-item .column-grid-link img {
+.column-grid-item .column-grid-link div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: black !important;
+}
+
+.column-grid-item hr {
+  border-top: 1px solid black;
+}
+
+.column-grid-item .column-grid-link img {
   position: absolute;
   top: 50%;
   left: 50%;
