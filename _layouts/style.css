@@ -2,4 +2,5 @@
 {% include css/agency.css %}
 {% include css/column-grid.css %}
 {% include css/column-grid-modals.css %}
+{% include css/carousel.css %}
 {{ content }}

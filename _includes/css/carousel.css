@@ -1,0 +1,80 @@
+.carousel.slide {
+  background-color: rgba(175,175,175,.1);
+}
+
+.carousel-inner>.item {
+  height: 40vw;
+}
+
+.carousel-inner>.item>img {
+  position: absolute;
+  width: unset;
+  height: unset;
+  max-height: 100%;
+  max-width: 100%;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.carousel-inner>.item>.carousel-caption {
+  padding: 0;
+  text-align: right;
+  color: rgba(255,255,255,0.8);
+  bottom: 0;
+  font-family: {{ site.data.template.font.secondary }};
+}
+
+.carousel.slide>.carousel-control {
+  background-color: rgba(0,0,0,0.3);
+  top: 40%;
+  height: 20%;
+  bottom: unset;
+  width: 5%;
+  background-image: none;
+}
+
+.carousel.slide>.carousel-control>i.fa {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.carousel.slide.thumbnail-indicator .carousel-indicators {
+  margin: 0 0 0;
+  background-color: white;
+  padding: 10px 0 0;
+  overflow: hidden;
+  position: static;
+  text-align: left;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.carousel.slide.thumbnail-indicator .carousel-indicators li {
+  background-color: transparent;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  display: inline-block;
+  height: 7vw;
+  width: auto;
+  margin: 0 !important;
+}
+
+.carousel.slide.thumbnail-indicator .carousel-indicators li img {
+  display: block;
+  opacity: 0.5;
+  height: 100%;
+  -webkit-transition: opacity .5s ease;
+  transition: opacity .5s ease;
+}
+
+.carousel.slide.thumbnail-indicator .carousel-indicators li.active img {
+  opacity: 1 !important;
+}
+.carousel.slide.thumbnail-indicator .carousel-indicators li:hover img {
+  opacity: 0.75;
+}
