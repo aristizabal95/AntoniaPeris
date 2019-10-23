@@ -1332,3 +1332,7 @@ a.button-link:hover {
 .underlined {
   border-bottom: 2px solid {{site.data.template.color.green }};
 }
+
+#gallery {
+  padding-bottom: 0;
+}
