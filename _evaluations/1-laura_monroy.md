@@ -7,7 +7,7 @@ quote: >-
   su escucha y su generosidad.”
 header:
 image: /img/laura-monroy.png
-image_x_offset: 70%
+image_x_offset: 50%
 ---
 
 Conoc&iacute; a Antonia en el 2014, cuando ambas adicionamos para el primer semestre oficial de la Carrera de Artes Esc&eacute;nicas de la Universidad Javeriana. “&iquest;Puedo poner mi coraz&oacute;n a sus pies?”&nbsp; fue de las primeras frases que le dije practicando el fragmento de texto con el que adicionar&iacute;amos. Hoy en d&iacute;a, digo con certeza que puedo poner mi coraz&oacute;n a sus pies. Antonia es una persona que genera una confianza enorme desde su disciplina, su escucha y su generosidad.&nbsp;
