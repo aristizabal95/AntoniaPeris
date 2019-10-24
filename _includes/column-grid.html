@@ -32,7 +32,7 @@ displays a modal with the content of the item.
 {% for i in (0..lg-columns) %}
   <div class="col-md-{{lg-col-size}} hidden-sm hidden-xs column-grid-item">
     {% for item in items %}
-      {% assign item-column = forloop.index | minus: 1 | modulo: 4 %}
+      {% assign item-column = forloop.index | minus: 1 | modulo: include.lg-columns %}
       {% if item-column == i %}
         <a href="#{{ identifier }}Modal{{ forloop.index }}" class="column-grid-link" data-toggle="modal">
             <div class="column-grid-hover" style="background-color: {{item.bg_color}}">
@@ -54,7 +54,7 @@ displays a modal with the content of the item.
 {% for i in (0..sm-columns) %}
 <div class="col-sm-{{sm-col-size}} hidden-md hidden-xs hidden-lg column-grid-item">
   {% for item in items %}
-    {% assign item-column = forloop.index | minus: 1 | modulo: 3 %}
+    {% assign item-column = forloop.index | minus: 1 | modulo: include.sm-columns %}
     {% if item-column == i %}
       <a href="#{{ identifier }}Modal{{ forloop.index }}" class="column-grid-link" data-toggle="modal">
           <div class="column-grid-hover" style="background-color: {{item.bg_color}}">
@@ -74,7 +74,7 @@ displays a modal with the content of the item.
 {% for i in (0..xs-columns) %}
 <div class="col-xs-{{xs-col-size}} hidden-md hidden-sm hidden-lg column-grid-item">
 {% for item in items %}
-{% assign item-column = forloop.index | minus: 1 | modulo: 2 %}
+{% assign item-column = forloop.index | minus: 1 | modulo: include.xs-columns %}
 {% if item-column == i %}
 <a href="#{{ identifier }}Modal{{ forloop.index }}" class="column-grid-link" data-toggle="modal">
   <div class="column-grid-hover" style="background-color: {{item.bg_color}}">
