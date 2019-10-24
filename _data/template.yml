@@ -33,6 +33,7 @@ color:
 font:
   primary: 'Dosis, Arial, sans-serif'
   secondary: '"Open Sans", Arial, sans-serif'
+  ternary: "Cambria, Georgia, serif"
 
 gallery:
   xs-columns: 2

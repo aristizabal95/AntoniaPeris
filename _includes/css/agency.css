@@ -922,10 +922,6 @@ ul.social-buttons li a:active {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content img {
-    margin-bottom: 30px;
-}
-
 .portfolio-modal .close-modal {
     position: absolute;
     top: 25px;
@@ -1292,10 +1288,10 @@ a.button-link:hover {
   transform: translate(-50%, -50%);
 }
 
-.portfolio-modal .modal-body>img {
-  max-height: 500px;
-  float: left;
-  margin: 35px;
+.portfolio-modal .modal-body>div>img {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
 }
 
 .portfolio-modal .modal-body li {
@@ -1335,4 +1331,8 @@ a.button-link:hover {
 
 #gallery {
   padding-bottom: 0;
+}
+
+.eval-modal {
+  font-family: {{site.data.template.font.ternary}};
 }

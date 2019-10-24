@@ -1,7 +1,7 @@
 <!-- Gallery Modals -->
 {% for evaluation in site.evaluations %}
 {% assign idx = forloop.index | minus: 1 %}
-<div class="portfolio-modal modal fade" id="evaluationModal{{ idx }}" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="portfolio-modal modal fade eval-modal" id="evaluationModal{{ idx }}" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-content">
     <div class="close-modal" data-dismiss="modal">
       <div class="lr">
@@ -16,7 +16,9 @@
             <h2>{{ evaluation.title }}</h2>
             <h4 class="title">{{ evaluation.name }}</h4>
             <hr class="star-primary underlined">
-            <img src="{{ evaluation.image }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            <div class="col-md-6">
+              <img src="{{ evaluation.image }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            </div>
             {{ evaluation.content }}
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
           </div>
