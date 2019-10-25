@@ -19,3 +19,6 @@ gallery:
     desc:
 ---
 
+Obra de clown. Dirigida por Diego Garc&iacute;a. 2018 y 2019
+
+La noticia de que hubo un misteriosos asesinato en el motel Flamingos, llega a o&iacute;dos de dos detectives, quienes recopilaran los rastros de los sospechosos. Cada pista se convertir&aacute; en una posibilidad para atrapar al asesino pero tambi&eacute;n para hacer re&iacute;r al p&uacute;blico.
