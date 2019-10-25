@@ -15,6 +15,30 @@ gallery:
     desc:
   - path: /uploads/mubd5148.jpg
     desc:
+  - path: /uploads/32134271138-3ea37585f3-o.jpg
+    desc:
+  - path: /uploads/32134272278-3146c59eaf-o.jpg
+    desc:
+  - path: /uploads/44189348710-35718db517-k.jpg
+    desc:
+  - path: /uploads/44189349250-d986c00523-o.jpg
+    desc:
+  - path: /uploads/44189627760-2bbc32c859-o.jpg
+    desc:
+  - path: /uploads/45093936245-a5d1833d28-o.jpg
+    desc:
+  - path: /uploads/45093943225-1b85c7a910-o.jpg
+    desc:
+  - path: /uploads/45281336794-82c4e571dc-o.jpg
+    desc:
+  - path: /uploads/45955865182-d5db68283e-o.jpg
+    desc:
+  - path: /uploads/46005089831-cbf4824141-o.jpg
+    desc:
+  - path: /uploads/46005155841-cc1e0e5487-o.jpg
+    desc:
+  - path: /uploads/46005156581-1d5fa36760-o.jpg
+    desc:
 ---
 
 Ensamble de circo de la Pontificia Universidad Javeriana. Dirigido por Felipe Ortiz y Catalina Del Castillo. 2018
