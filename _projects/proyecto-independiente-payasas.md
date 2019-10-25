@@ -21,6 +21,16 @@ gallery:
     desc:
   - path: /uploads/57190319-2061783827264293-4595698917496061952-n.jpg
     desc:
+  - path: /uploads/whatsapp-image-2019-10-24-at-10-51-31-am.jpeg
+    desc:
+  - path: /uploads/whatsapp-image-2019-10-24-at-10-51-45-am.jpeg
+    desc:
+  - path: /uploads/whatsapp-image-2019-10-24-at-10-52-01-am.jpeg
+    desc:
+  - path: /uploads/whatsapp-image-2019-10-24-at-10-52-18-am.jpeg
+    desc:
+  - path: /uploads/whatsapp-image-2019-10-24-at-10-52-35-am.jpeg
+    desc:
 ---
 
 Obra de clown en peque&ntilde;o formato, Creaci&oacute;n colaborativa entre Antonia Peris y Tania L&oacute;pez Burgos. 2019
