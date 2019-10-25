@@ -1,5 +1,5 @@
 ---
-title: Última Cosecha
+title: La Última Cosecha
 subtitle:
 description:
 image: /uploads/img-4208.JPG
