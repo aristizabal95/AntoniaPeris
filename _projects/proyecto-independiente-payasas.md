@@ -35,4 +35,4 @@ gallery:
 
 Obra de clown en peque&ntilde;o formato, Creaci&oacute;n colaborativa entre Antonia Peris y Tania L&oacute;pez Burgos. 2019
 
-Dos payasas que son unidas por la amistad, el amor, un sof&aacute; y una llamada. To&ntilde;a y Fecha dos amigas que se ven involucradas en un tri&aacute;ngulo amoroso que las llevara a vivir situaciones rivalidad. Esta obra llega a las tablas del teatro para hacer del desamor un disfrute.
+Dos payasas que son unidas por la amistad, el amor, un sof&aacute; y una llamada. To&ntilde;a y Fecha dos amigas que se ven involucradas en un tri&aacute;ngulo amoroso que las llevar&aacute; a vivir situaciones rivalidad. Esta obra llega a las tablas del teatro para hacer del desamor un disfrute.
