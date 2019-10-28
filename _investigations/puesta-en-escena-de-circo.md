@@ -25,9 +25,9 @@ Ahora nos encontramos en una era que pregona la digitalizaci&oacute;n total, don
 
 Como sociedad contempor&aacute;nea del siglo XXI, nos encontramos rodeados de medios tecnol&oacute;gicos. En su utilizaci&oacute;n constante se ha llegado a normalizar su influencia, a tal punto que al hablar de ellos, aparece instant&aacute;neamente la imagen de aquellos objetos que pasan por nuestras manos: celulares, computadoras, autom&oacute;viles, etc. Pero es debido a las asociaciones inmediatas que produce la tecnolog&iacute;a que encuentro preciso evidenciar cu&aacute;les son los medios tecnol&oacute;gicos que forman parte de la sociedad contempor&aacute;nea de hoy en d&iacute;a, para encontrar as&iacute; su relaci&oacute;n con el teatro.
 
-Oscar Cornejo en su ensayo cuerpo invisible, se centra espec&iacute;ficamente en cuatro modelos que dominan la representaci&oacute;n: el cine, la televisi&oacute;n, el video y el internet. Para Cornejo, estos medios de comunicaci&oacute;n han permitido que el teatro se nutra y encuentre nuevas maneras de expandirse.
+Oscar Cornejo en su ensayo *C**uerpo invisible (2004)*, se centra espec&iacute;ficamente en cuatro modelos que dominan la representaci&oacute;n: el cine, la televisi&oacute;n, el video y el internet. Para Cornejo, estos medios de comunicaci&oacute;n han permitido que el teatro se nutra y encuentre nuevas maneras de expandirse.
 
-Desde el cine, la relaci&oacute;n que se le da con el teatro, es desde la caracter&iacute;stica de “ilusi&oacute;n” a la que es llevado el espectador. Porque una vez se sientan a observar aquella imagen construida, comienza un viaje por un universo que deja ver la realidad como una puerta de entrada de lo imposible a lo posible.
+Desde el cine, la relaci&oacute;n que se da con el teatro, es desde la caracter&iacute;stica de “ilusi&oacute;n” a la que es llevado el espectador. Porque una vez se sientan a observar aquella imagen construida, comienza un viaje por un universo que deja ver la realidad como una puerta de entrada de lo imposible a lo posible.
 
 Con los efectos especiales y las altas resoluciones en el cine, el espectador abre su mente y se involucra con la nueva realidad que se le construye ante sus ojos. El teatro aunque comparte su caracter&iacute;stica de ilusi&oacute;n, le da al participante cierta responsabilidad frente a la obra. El hecho de hacer algo en el instante presente, pone ante los ojos del p&uacute;blico la posibilidad del error, una posibilidad que genera un v&iacute;nculo humano emocional con el ejecutante.
 
@@ -125,5 +125,5 @@ Contrario a eso, considero que el mal uso inconsciente de los medios de comunica
 **Referencias:**
 
 * P. Sibila (2005) El hombre pos org&aacute;nico&nbsp; Buenos Aires: Fondo cultural econ&oacute;mica.
-* O. Cornago Bernal, ( 2004) Cuerpo invisible: teatro y tecnolog&iacute;as de lsa imagen art&iacute;culo en&nbsp; El cuerpo invisible: teatro y tecnolog&iacute;as de la ... - Arbor - CSICarbor.revistas.csic.es › index.php › arbor › article › download
+* O. Cornago Bernal, ( 2004) Cuerpo invisible: teatro y tecnolog&iacute;as de lsa imagen art&iacute;culo en&nbsp; El cuerpo invisible: teatro y tecnolog&iacute;as de la … - Arbor - CSICarbor.revistas.csic.es › index.php › arbor › article › download
 * S. Dixon (2019) Digital performance en https://chtodelat.org/wp-content/uploads/2011/07/DixonDigitalPerformance.pdf
