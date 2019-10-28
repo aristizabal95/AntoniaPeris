@@ -48,7 +48,8 @@
   margin: 0 0 0;
   background-color: white;
   padding: 10px 0 0;
-  overflow: scroll;
+  overflow-x: scroll;
+  overflow-y: hidden;
   position: static;
   text-align: left;
   white-space: nowrap;
