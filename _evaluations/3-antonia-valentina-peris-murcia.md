@@ -3,7 +3,7 @@ name: Antonia Valentina Peris Murcia
 title: Autoevaluación
 quote: '"Aquello que se crea con amor y placer será visto de tal forma."'
 header:
-image: /img/antonia.png
+image: /uploads/foto-para-la-auto-evaluacion.jpg
 image_x_offset: 50%
 ---
 
