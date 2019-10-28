@@ -1,13 +1,18 @@
 ---
-title: Visibilizando una Realidad
+title: Puesta en escena de circo
 subtitle:
-image: 'https://picsum.photos/1750/2600'
+image: /uploads/whatsapp-image-2019-10-27-at-11-10-58-pm.jpeg
 description: >-
+  Fotografía: Sameer Makarius
+
+
   Tomando como punto de partida mi proceso en el circo, hago un estudio sobre la
   relación que tiene el artista de circo con el héroe, a través de entrevistas a
   diferentes artistas circenses y de textos que indaguen sobre la visión del
   héroe en la historia y en diferentes contextos.
 ---
+
+## Visibilizando una Realidad
 
 Hoy en d&iacute;a los h&eacute;roes se visten con una capa y vuelan en el cielo para salvar aquellos que sufren peligro. la imagen generada por los comics y el cine han hecho de los s&uacute;per h&eacute;roes una industria y del acto heroico una ficci&oacute;n que se aleja cada vez m&aacute;s del alcance de lo humano. Pareciera que para llegar a alcanzar tal nivel en que el hombre puede experimentar la grandeza, fuera necesario una cabina telef&oacute;nica como en el caso de Superman, o de una ara&ntilde;a que en una mordida transforma la vida de un hombre en ar&aacute;cnido.
 
@@ -58,7 +63,7 @@ Puedo decir que todav&iacute;a me encuentro en la etapa de separaci&oacute;n del
 
 hombre com&uacute;n y corriente. Par llegar a estudiar a fondo la relaci&oacute;n del artista circense con el h&eacute;roe, decid&iacute; realizar una entrevista a diferentes artistas del circo. Sin la intenci&oacute;n de buscar resultados concretos solo queriendo conocer el proceso de transformaci&oacute;n de aquellos que en mi etapa primeriza puedo visualizar como h&eacute;roes de la acrobacia en el circo en Colombia.
 
-<br>**Artistas entrevistados:**
+**Artistas entrevistados:**
 
 * Felipe Ortiz: Acr&oacute;bata con un enfoque en la improvisaci&oacute;n teatral y el clown (Director de la compa&ntilde;&iacute;a La gata circo, acr&oacute;bata, improvisador, clown y maestro)
 * Alberto C&oacute;rdoba: Acr&oacute;bata y majea la rueda circo ( ejecutante en la compa&ntilde;&iacute;a de la Gata circo)
@@ -82,13 +87,11 @@ Formule diez preguntas a partir mi proceso en el circo y de las experiencias rel
 
 &iquest;Alguna vez te has sentido en peligro de muerte?
 
-&nbsp;
-
 En primera instancia aquello que marca con claridad una diferencia tanto a nivel f&iacute;sico como en experiencia, es la edad. Aunque puede parecer una aclaraci&oacute;n obvia, en realidad se convierte en un punto clave de este estudio. Porque el enfrentamiento de los retos y la valent&iacute;a los lleva a tener un acercamiento distinto en el trato con sus cuerpos y a la intensidad con la que asumen sus pr&aacute;cticas. Alberto era el m&aacute;s joven de los entrevistados, y aunque t&eacute;cnicamente est&aacute; a la par los dem&aacute;s, su edad de veinticinco a&ntilde;os demuestra un h&eacute;roe que se mueve apartar de un deseo por superar sus propios miedos y debilidades humanas.
 
 > “Hay personas que no hacen acrobacia por medio a lesionarse, y de pornto mas adelante ya no pueden y yo pienso. s&iacute;, pero no quiero llegar y decir. Yo puedo haber hecho m&aacute;s, pero nunca lo hice por miedo. No quiero contenerme ahora, No hay que hablar de moderaci&oacute;n, ahora en este punto hay que exagerar” Alberto C&oacute;rdoba
 
-<br>Pero, as&iacute; como sus palabras resonaron con mi proceso y avivaron la sensaci&oacute;n de gozo y placer que experimento a causa de los distintos logros, tambi&eacute;n tuvieron un eco en las historias que me contaron los h&eacute;roes de m&aacute;s edad. Mientras me hablaban de su pasado era inevitable ver como sus ojos se iluminaban con el recuerdo de los a&ntilde;os, a&ntilde;os de grandes haza&ntilde;as, a&ntilde;os de inmortalidad. Como por ejemplo tirarse de un helic&oacute;ptero y de edificios a grandes alturas.
+Pero, as&iacute; como sus palabras resonaron con mi proceso y avivaron la sensaci&oacute;n de gozo y placer que experimento a causa de los distintos logros, tambi&eacute;n tuvieron un eco en las historias que me contaron los h&eacute;roes de m&aacute;s edad. Mientras me hablaban de su pasado era inevitable ver como sus ojos se iluminaban con el recuerdo de los a&ntilde;os, a&ntilde;os de grandes haza&ntilde;as, a&ntilde;os de inmortalidad. Como por ejemplo tirarse de un helic&oacute;ptero y de edificios a grandes alturas.
 
 El enfoque que cada uno le dio a su pr&aacute;ctica a lo largo de la vida, desde mi perspectiva transformaba la posible sensaci&oacute;n de a&ntilde;oranza que sent&iacute;an de aquel momento, por ejemplo, Felipe Ortiz al haber compartido el riesgo y la t&eacute;cnica acrob&aacute;tica con el teatro. Le dio otro enfoque, donde la constancia y la necesidad por llegar a un objetivo en lo f&iacute;sico pasaron a un segundo plano.
 
