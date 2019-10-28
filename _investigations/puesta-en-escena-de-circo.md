@@ -1,7 +1,7 @@
 ---
 title: Puesta en Escena de Cuerpo y Nuevos Medios
-img_text: "Fotografía: Sameer Makarius"
-image: /uploads/whatsapp-image-2019-10-27-at-11-10-19-pm.jpeg
+img_text: 'Fotografía: Sameer Makarius'
+image: /uploads/whatsapp-image-2019-10-27-at-11-10-19-pm-1.jpeg
 description: >-
   A lo largo de mi proceso genere un gusto por los elementos viejos y las
   emociones humanas en las obras teatrales, cerrándome ante la posibilidad de
