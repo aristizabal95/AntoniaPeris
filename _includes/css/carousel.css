@@ -34,6 +34,7 @@
   height: 20%;
   bottom: unset;
   width: 5%;
+  min-width: 5%;
   background-image: none;
 }
 
