@@ -1,7 +1,9 @@
 ---
 name: Felipe Reyes Fajardo
 title: Evaluación de pares
-quote:
+quote: >-
+  Siempre me sorprendió lo crítica que ella es de su trabajo, y el amor que le
+  tiene al mismo
 header:
 image: /uploads/whatsapp-image-2019-10-23-at-8-00-13-am.jpeg
 image_x_offset: 50%
