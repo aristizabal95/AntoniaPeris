@@ -1,7 +1,7 @@
 ---
-title: Puesta en Escena de Cuerpo de Medios Nuevos
+title: Puesta en Escena de Cuerpo y Nuevos Medios
 subtitle:
-image: 'https://picsum.photos/1750/2600'
+image: /uploads/whatsapp-image-2019-10-27-at-11-10-19-pm.jpeg
 description: >-
   A lo largo de mi proceso genere un gusto por los elementos viejos y las
   emociones humanas en las obras teatrales, cerrándome ante la posibilidad de
@@ -11,7 +11,7 @@ description: >-
   ella?
 ---
 
-De lo teatral a lo virtual
+## **De lo teatral a lo virtual**
 
 &nbsp;<br>A lo largo de la historia, el teatro ha tenido diferentes transformaciones, ya que se<br>trata de un arte que busca la representaci&oacute;n de la vida. Cada contexto hist&oacute;rico ha afectado directamente en su estructura de creaci&oacute;n, a los diferentes universos<br>creativos. Un ejemplo claro de esto, son las vanguardias teatrales. Diferentes<br>condicionantes que activaron un cambio en la manera de hacer teatro.&nbsp;<br>&nbsp;<br>Ahora que nos encontramos en una era que pregona la digitalizaci&oacute;n total, donde la comunicaci&oacute;n se da desde los nuevos medios y la relaci&oacute;n e interacci&oacute;n se construye a trav&eacute;s de aparatos electr&oacute;nicos. &nbsp;Se pone en discusi&oacute;n la relaci&oacute;n que tiene el teatro en la actualidad con los nuevos medios. A la luz de esta problem&aacute;tica, aparece la pregunta que guiar&aacute; este escrito investigativo. &iquest;La utilizaci&oacute;n de los medios tecnol&oacute;gicos, alejan al participante de la experiencia humana que provoca el teatro, o por el contrario ofrece una expansi&oacute;n de nuevas dimensiones sensoriales?&nbsp;
 
@@ -29,7 +29,7 @@ donde el participante tiene el poder moral y/o pol&iacute;tico de tomar decision
 
 <br>La aparici&oacute;n de un nuevo universo paralelo al real, ha tra&iacute;do consigo una serie de<br>avances, que le han dado a lo teatral un sentido expandido. Dentro de esta<br>clasificaci&oacute;n de medios, se encuentra; el mapping, las obras de 4D, los actores<br>robots. &nbsp;El Routeado, un proceso digital que permite cortar, grabar y dar forma en 2D y 3D a distintos materiales para la elaboraci&oacute;n de piezas y objetos complejos que se utilizan en escenograf&iacute;a y utiler&iacute;a. Software, utilizado para el subtitulado/ traducci&oacute;n simult&aacute;nea de espect&aacute;culos en idioma extranjero, que se proyecta sobre pantallas o que se transmite v&iacute;a displays electr&oacute;nicos. (Gustavo Scharaier. Revista ACC, 2015)
 
-<br>**2\. &nbsp;Los medios tecnol&oacute;gicos como una forma de alejar al participante de la<br>experiencia humana que brinda el teatro. **
+<br>\*\*2. &nbsp;Los medios tecnol&oacute;gicos como una forma de alejar al participante de la<br>experiencia humana que brinda el teatro. \*\*
 
 Como mencion&eacute; al principio de este escrito, nos encontramos en la era que pregona la digitalizaci&oacute;n. La era del hombre est&aacute; llegando a su fin para darle paso al cuerpo maquina o cuerpo virtual. &iquest;Pero cu&aacute;les son las repercusiones que tiene el hecho de aceptar los avances tecnol&oacute;gicos con tanta tranquilidad en la vida y por consiguiente en el espacio teatral?&nbsp; &nbsp;
 
