@@ -82,7 +82,7 @@ El enfoque que cada uno le dio a su pr&aacute;ctica a lo largo de la vida, desde
 
 Aunque todos hab&iacute;an transformado sus pr&aacute;cticas seg&uacute;n su necesidad corporal del momento, explorando nuevas posibilidades y redescubri&eacute;ndose en otra etapa como h&eacute;roes, aquellos que solo tuvieron un enfoque frente las capacidades corporales, tuvieron en alg&uacute;n punto que transformar dr&aacute;sticamente su relaci&oacute;n con el cuerpo.
 
-Por ejemplo, en el caso de Leonardo Gir&oacute;n y su proceso en la compa&ntilde;&iacute;a Streb, el cual llego a otorgarle grandes a&ntilde;os de su vida, su capacidad de resistencia alcanz&oacute; niveles donde pocos pueden llegar, debido a que esta compa&ntilde;&iacute;a busca alejarse de la debilidad del cuerpo y asumir la fuerza por medio del alto impacto y los vuelos a grandes alturas.
+Por ejemplo, en el caso de Leonardo Gir&oacute;n y su proceso en la compa&ntilde;&iacute;a Streb, el cual lleg&oacute; a otorgarle grandes a&ntilde;os de su vida. Su capacidad de resistencia alcanz&oacute; niveles donde pocos pueden llegar, debido a que esta compa&ntilde;&iacute;a busca alejarse de la debilidad del cuerpo y asumir la fuerza por medio del alto impacto y los vuelos a grandes alturas.
 
 La directora de la compa&ntilde;&iacute;a Elizabeth menciono en una charla de TED una frase de Wilbur Wright la cual dice:
 
@@ -96,6 +96,6 @@ Cada ca&iacute;da, miedo, duda, emoci&oacute;n, nervios, etc. hace parte de este
 
 Referencias:
 
-* Jorge gallego silva en su tesis -filosof&iacute;a y est&eacute;tica del cuerpo en el circo desde la perspectiva del concepto del biopoder (2015)
-* El diccionario Akal de est&eacute;tica (1998)
-* Ra&uacute;l Eguiz&aacute;bal evidencia en su libro “El gran salto” (2012)<br>&nbsp;
+* J. Gallego Silva, *Filosof&iacute;a y est&eacute;tica del cuerpo en el circo desde la perspectiva del concepto del biopoder* (2015)
+* *Diccionario Akal de est&eacute;tica* (1998)
+* R. Eguiz&aacute;bal, *El Gran Salto*&nbsp;(2012)<br>&nbsp;
