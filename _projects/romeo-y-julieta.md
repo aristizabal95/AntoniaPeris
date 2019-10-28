@@ -31,6 +31,6 @@ gallery:
     desc:
 ---
 
-Ensamble de Clown de la Pontificia Universidad Javeriana. Dirigido por el director Felipe<br>Ortiz. 2016
+Ensamble de Clown de la Pontificia Universidad Javeriana. Dirigido por Felipe Ortiz .2016
 
-Una adaptaci&oacute;n de la reconocida obra del escrito William Shakespeare<br>Shakespeare, Romeo y Julieta. La historia de amor, odio y muerte entre dos la familia Capuleto y los Montesco es contada a partir del lenguaje del clown. Una divertida obra que har&aacute; de un cl&aacute;sico de la literatura un detonante de risa y la diversi&oacute;n.
+Una adaptaci&oacute;n de la reconocida obra del escrito William Shakespeare, Romeo y Julieta. &nbsp;La historia de amor, odio y muerte entre dos la familia Capuleto y los Montesco es contada a partir del lenguaje del clown. Una divertida obra que har&aacute; de un cl&aacute;sico de la literatura un detonante de risa y la diversi&oacute;n.&nbsp;<br>&nbsp;
