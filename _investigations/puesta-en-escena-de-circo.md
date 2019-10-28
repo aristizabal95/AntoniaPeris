@@ -25,7 +25,7 @@ Ahora nos encontramos en una era que pregona la digitalizaci&oacute;n total, don
 
 Como sociedad contempor&aacute;nea del siglo XXI, nos encontramos rodeados de medios tecnol&oacute;gicos. En su utilizaci&oacute;n constante se ha llegado a normalizar su influencia, a tal punto que al hablar de ellos, aparece instant&aacute;neamente la imagen de aquellos objetos que pasan por nuestras manos: celulares, computadoras, autom&oacute;viles, etc. Pero es debido a las asociaciones inmediatas que produce la tecnolog&iacute;a que encuentro preciso evidenciar cu&aacute;les son los medios tecnol&oacute;gicos que forman parte de la sociedad contempor&aacute;nea de hoy en d&iacute;a, para encontrar as&iacute; su relaci&oacute;n con el teatro.
 
-Oscar Cornejo en su ensayo *C**uerpo invisible (2004)*, se centra espec&iacute;ficamente en cuatro modelos que dominan la representaci&oacute;n: el cine, la televisi&oacute;n, el video y el internet. Para Cornejo, estos medios de comunicaci&oacute;n han permitido que el teatro se nutra y encuentre nuevas maneras de expandirse.
+Oscar Cornejo en su ensayo *Cuerpo invisible (2004)*, se centra espec&iacute;ficamente en cuatro modelos que dominan la representaci&oacute;n: el cine, la televisi&oacute;n, el video y el internet. Para Cornejo, estos medios de comunicaci&oacute;n han permitido que el teatro se nutra y encuentre nuevas maneras de expandirse.
 
 Desde el cine, la relaci&oacute;n que se da con el teatro, es desde la caracter&iacute;stica de “ilusi&oacute;n” a la que es llevado el espectador. Porque una vez se sientan a observar aquella imagen construida, comienza un viaje por un universo que deja ver la realidad como una puerta de entrada de lo imposible a lo posible.
 
