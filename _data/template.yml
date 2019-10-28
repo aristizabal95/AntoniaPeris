@@ -1,26 +1,24 @@
-# Global Variables
 title: Antonia Peris
 subtitle: Ejecutante-Creadora
-phone: '123 456 789'
-email: your-email@domain.com
-cv_path: ''
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, twitter, etc.)
+phone: +57 3043771649
+email: Antoniaperism@gmail.com
+cv_path:
+description: >-
+  Write an awesome description for your new site here. You can edit this line in
+  _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
 social:
   - title: facebook
-    url: https://www.facebook.com/valentina.peris.1
+    url: 'https://www.facebook.com/valentina.peris.1'
   - title: instagram
-    url: https://www.instagram.com/antonia_hedonista/
-
-# Color settings (hex-codes without the leading hash-tag)
+    url: 'https://www.instagram.com/antonia_hedonista/'
 color:
-  primary: "#000000"
-  secondary: "#444"
-  muted: "#777"
-  muted-bg: "#f5efec"
-  highlight: "#808080"
-  highlight-bg: "#f5f5f5"
+  primary: '#000000'
+  secondary: '#444'
+  muted: '#777'
+  muted-bg: '#f5efec'
+  highlight: '#808080'
+  highlight-bg: '#f5f5f5'
   green: '#829891'
   purple: '#471f32'
   yellow: '#ffc115'
@@ -28,13 +26,10 @@ color:
   skin: '#ecc8ae'
   skin-light: '#ecbfae'
   blue: '#72c7ef'
-
-# Font Families
 font:
   primary: 'Dosis, Arial, sans-serif'
   secondary: '"Open Sans", Arial, sans-serif'
-  ternary: "Cambria, Georgia, serif"
-
+  ternary: 'Cambria, Georgia, serif'
 gallery:
   xs-columns: 2
   sm-columns: 2
