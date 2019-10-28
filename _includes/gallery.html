@@ -26,7 +26,7 @@
         <span class="sr-only">Next</span>
       </a>
 
-      <ol class="carousel-indicators visible-sm-block hidden-xs-block visible-md-block visible-lg-block">
+      <ol class="carousel-indicators">
         {% for item in page.gallery %}
         {% assign id = item.path | split: "/" %}
         {% assign id = id[-1] | split: "." %}

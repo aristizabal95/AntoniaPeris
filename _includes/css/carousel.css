@@ -61,6 +61,7 @@
   border-radius: 0;
   display: inline-block;
   height: 7vw;
+  min-height:80px;
   width: auto;
   margin: 0 !important;
 }
