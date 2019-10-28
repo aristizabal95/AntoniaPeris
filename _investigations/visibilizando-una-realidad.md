@@ -1,11 +1,8 @@
 ---
 title: Puesta en escena de circo
-subtitle:
+img_text: "Fotografía: Sameer Makarius"
 image: /uploads/whatsapp-image-2019-10-27-at-11-10-58-pm.jpeg
 description: >-
-  Fotografía: Sameer Makarius
-
-
   Tomando como punto de partida mi proceso en el circo, hago un estudio sobre la
   relación que tiene el artista de circo con el héroe, a través de entrevistas a
   diferentes artistas circenses y de textos que indaguen sobre la visión del

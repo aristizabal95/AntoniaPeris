@@ -1336,3 +1336,11 @@ a.button-link:hover {
 .eval-modal {
   font-family: {{site.data.template.font.ternary}};
 }
+
+p.img-desc {
+  font-size: 10px;
+}
+
+h2.inv-title {
+  height: 60px;
+}
