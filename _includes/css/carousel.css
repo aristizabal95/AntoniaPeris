@@ -3,7 +3,8 @@
 }
 
 .carousel-inner>.item {
-  height: 40vw;
+  height: 100vh;
+  max-height: 60vh;
 }
 
 .carousel-inner>.item>img {
