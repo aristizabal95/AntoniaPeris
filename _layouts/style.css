@@ -3,4 +3,5 @@
 {% include css/column-grid.css %}
 {% include css/column-grid-modals.css %}
 {% include css/carousel.css %}
+{% include css/embed.css %}
 {{ content }}
