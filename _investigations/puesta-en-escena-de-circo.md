@@ -124,6 +124,6 @@ Contrario a eso, considero que el mal uso inconsciente de los medios de comunica
 
 **Referencias:**
 
-* P. Sibila (2005) El hombre pos org&aacute;nico&nbsp; Buenos Aires: Fondo cultural econ&oacute;mica.
-* O. Cornago Bernal, ( 2004) Cuerpo invisible: teatro y tecnolog&iacute;as de lsa imagen art&iacute;culo en&nbsp; El cuerpo invisible: teatro y tecnolog&iacute;as de la … - Arbor - CSICarbor.revistas.csic.es › index.php › arbor › article › download
-* S. Dixon (2019) Digital performance en https://chtodelat.org/wp-content/uploads/2011/07/DixonDigitalPerformance.pdf
+* P. Sibila (2005) *El Hombre Postorg&aacute;nico*. Buenos Aires: Fondo cultural econ&oacute;mica.
+* O. Cornago Bernal, ( 2004) *Cuerpo invisible: teatro y tecnolog&iacute;as de la imagen.*&nbsp;Art&iacute;culo en&nbsp; El cuerpo invisible: teatro y tecnolog&iacute;as de la … - Arbor - CSICarbor.revistas.csic.es › index.php › arbor › article › download
+* S. Dixon (2019) *Digital performance. Texto*&nbsp;en [https://chtodelat.org/wp-content/uploads/2011/07/DixonDigitalPerformance.pdf](https://chtodelat.org/wp-content/uploads/2011/07/DixonDigitalPerformance.pdf)
