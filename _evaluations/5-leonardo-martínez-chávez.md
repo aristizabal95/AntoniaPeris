@@ -1,5 +1,4 @@
 ---
-layout: evaluation
 name: Leonardo Martínez Chávez.
 title: Algunos asuntos sobre Antonia
 quote: >-

@@ -1,5 +1,4 @@
 ---
-layout: evaluation
 name: Sara Regina Fonseca
 title: Evaluación de la profesora
 quote: >-

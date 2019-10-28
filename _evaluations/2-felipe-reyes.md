@@ -1,5 +1,4 @@
 ---
-layout: evaluation
 name: Felipe Reyes Fajardo
 title: Evaluación de pares
 quote:

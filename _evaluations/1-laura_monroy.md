@@ -1,5 +1,4 @@
 ---
-layout: evaluation
 name: Laura María Monroy García
 title: Evaluación de pares
 quote: >-
