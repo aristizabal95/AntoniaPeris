@@ -775,13 +775,27 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
-    background-position: center;
+    background-image: url('{{ site.baseurl }}/uploads/whatsapp-image-2019-10-27-at-11-10-19-pm.jpeg');
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-position-y: 20%;
+    box-shadow: inset 0 0 0 100vmax rgba(0,0,0,0.75);
 }
 
 section#contact .section-heading {
     color: #fff;
+}
+
+section#contact a {
+  color: inherit;
+  text-decoration: none;
+  transition: color .35s ease;
+}
+
+section#contact a:hover {
+  color: #F4F4F4;
+  text-decoration: none;
 }
 
 section#contact .form-group {
