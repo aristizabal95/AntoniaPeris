@@ -11,7 +11,7 @@
         <div class="item {% if forloop.index == 1 %}active{% endif %}">
           <img class="d-block h-100" src="{{item.path | prepend: site.baseurl }}" alt="{{item.desc}}">
           <div class="carousel-caption">
-            <p>{{ item.desc }}</p>
+            <p>{{ item.description | newline_to_br }}</p>
           </div>
         </div>
         {% endfor %}
