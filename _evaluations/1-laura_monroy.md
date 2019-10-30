@@ -9,7 +9,7 @@ image: /img/laura-monroy.png
 image_x_offset: 50%
 ---
 
-Conoc&iacute; a Antonia en el 2014, cuando ambas adicionamos para el primer semestre oficial de la Carrera de Artes Esc&eacute;nicas de la Universidad Javeriana. “&iquest;Puedo poner mi coraz&oacute;n a sus pies?”&nbsp; fue de las primeras frases que le dije practicando el fragmento de texto con el que adicionar&iacute;amos. Hoy en d&iacute;a, digo con certeza que puedo poner mi coraz&oacute;n a sus pies. Antonia es una persona que genera una confianza enorme desde su disciplina, su escucha y su generosidad.&nbsp;
+Conoc&iacute; a Antonia en el 2014, cuando ambas audicionamos para el primer semestre oficial de la Carrera de Artes Esc&eacute;nicas de la Universidad Javeriana. “&iquest;Puedo poner mi coraz&oacute;n a sus pies?”&nbsp; fue de las primeras frases que le dije practicando el fragmento de texto con el que audicionar&iacute;amos. Hoy en d&iacute;a, digo con certeza que puedo poner mi coraz&oacute;n a sus pies. Antonia es una persona que genera una confianza enorme desde su disciplina, su escucha y su generosidad.&nbsp;
 
 Compart&iacute; con ella diferentes clases de nuestro ciclo b&aacute;sico. Recuerdo particularmente el v&iacute;nculo que se gener&oacute; en torno a las magn&iacute;ficas inquietudes que nos causaba la som&aacute;tica. Este &aacute;nimo intr&eacute;pido y curiosidad activa continu&oacute; manifest&aacute;ndose; hoy considero que son unas de las caracter&iacute;sticas que destacan a Antonia.&nbsp;
 
