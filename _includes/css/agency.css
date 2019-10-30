@@ -1270,7 +1270,7 @@ a.button-link:hover {
   border-bottom: 2px solid {{site.data.template.color.green }};
 }
 
-.eval-modal {
+.eval-modal, .portfolio-modal {
   font-family: {{site.data.template.font.ternary}};
 }
 
