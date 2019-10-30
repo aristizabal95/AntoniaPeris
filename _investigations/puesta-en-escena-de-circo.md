@@ -88,7 +88,7 @@ El contenido de “ilusi&oacute;n” que hace parte de los medios, nubla la imag
 
 &iexcl;Accionar\! ….. &iexcl;Buscar nuevas armas\!
 
-Hacer caso omiso a los avances tecnol&oacute;gicos, seria tapar el sol con las manos para pretender que un hombre de carne y hueso no tiene la capacidad de sorprenderse en la innovaci&oacute;n de mecanismos que le permitan abrir sus propias capacidades de expansi&oacute;n y experimentaci&oacute;n. De la misma forma como Gilles Deleuze acepta en la cita, que cuerpo humano cumple con tiempo de vida, la tecnolog&iacute;a se ha encargado de perdurar el cuerpo y de ampliar sus posibilidades cuando &eacute;ste ha tenido alguna falla o tan solo se encuentra sin vitalidad.
+Hacer caso omiso a los avances tecnol&oacute;gicos, seria tapar el sol con las manos para pretender que un hombre de carne y hueso no tiene la capacidad de sorprenderse en la innovaci&oacute;n de mecanismos que le permitan abrir sus propias capacidades de expansi&oacute;n y experimentaci&oacute;n. De la misma forma como Gilles Deleuze acepta en la cita, que el cuerpo humano cumple con tiempo de vida, la tecnolog&iacute;a se ha encargado de perdurar el cuerpo y de ampliar sus posibilidades cuando &eacute;ste ha tenido alguna falla o tan solo se encuentra sin vitalidad.
 
 Desde los a&ntilde;os sesenta se ha dado una ampliaci&oacute;n de la manera como los medios dominantes de la representaci&oacute;n, han influenciado el &aacute;mbito teatral. “Entender el teatro desde lo que no es teatro, desde el cine la televisi&oacute;n el video o internet ha revestido en un enriquecimiento de la manera de hacer y concebir el proceso esc&eacute;nico” Oscar Cornago.pg 599 (2004)
 
